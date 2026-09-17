@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Hand:wght@400;700;800;900&display=swap');
+
+.font{
+    font-family: 'The Hand', cursive;
+    font-weight: 1000; /* ExtraBlack weight */
+    color: #000; /* Default color */
+    font-size: 35px; /* Default font size */
+}
+
+.testo-centrato {
+    text-align: center;
+    font-family: 'The Hand', cursive;
+}
+
+.testo-centrato-carte {
+    text-align: center;
+    font-family: 'The Hand', cursive;
+    font-size: 15px;
+}
+
+
+
+.testo-giustificato {
+    text-align:justify ;
+    font-family: 'The Hand', cursive;
+}
+
+.font-testo{
+    font-family: 'The Hand', cursive;
+}

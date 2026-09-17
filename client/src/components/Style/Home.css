@@ -1,0 +1,8 @@
+.GymCard {
+    width: 20rem;
+}
+
+.col-home{
+    display: flex;
+    justify-content: center;
+}

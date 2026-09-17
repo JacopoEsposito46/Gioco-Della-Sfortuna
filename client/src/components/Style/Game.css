@@ -1,0 +1,24 @@
+.radio-between-cards {
+    margin: 0 10px;
+}
+
+.radio-between-cards .form-check-input {
+    width: 20px;
+    height: 20px;
+    margin-top: 0;
+}
+
+/* Se vuoi che i radio button siano più grandi e visibili */
+.radio-between-cards .form-check-input {
+    transform: scale(1.5);
+}
+
+.conf-button {
+  position: fixed;
+  top: 180px; /* Posizionato sotto la navbar */
+  right: 120px;
+  z-index: 1040;
+  min-width: 300px;
+  border: 2px solid #dee2e6;
+  border-radius: 10px;
+  }
